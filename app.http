@@ -16,7 +16,7 @@ Content-Type: application/json
 ###
 
 PUT http://localhost:3001/players/1
-Content-Type: :application/json
+Content-Type: application/json
 
 {
   "playerName": "Maneesh",
